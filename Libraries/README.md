@@ -11,3 +11,20 @@ TensorFlow™ is an open source software library for numerical computation using
 Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
 [ Universe ](https://github.com/openai/universe)
+
+## NEAT 
+
+NEAT (NeuroEvolution of Augmenting Topologies) is a method developed by Kenneth O. Stanley for evovling arbitrary neural networks. 
+
+Install `neat-python` Library using `pip`
+
+`sudo pip install neat-python`
+
+Or, you can install it from source.
+
+1. `git clone https://github.com/CodeReclaimers/neat-python.git`
+
+2. `python setup.py install`
+
+[ NEAT Python Library ](https://github.com/CodeReclaimers/neat-python)
+[ neat-python Documentation ](http://neat-python.readthedocs.io/en/latest/)

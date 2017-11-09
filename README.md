@@ -17,10 +17,11 @@ If this outputs the Python Version, you have Python installed.
 
 ## Deep Learning Resources 
 
-### [ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+[ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
-### [ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
+[ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
 
-### [ The Deep Learning Book ](http://www.deeplearningbook.org/)
+[ The Deep Learning Book ](http://www.deeplearningbook.org/)
 
-### [ Stanford's Deep Learning Course ](http://deeplearning.stanford.edu/tutorial/)
+[ Stanford's Deep Learning Course ](http://deeplearning.stanford.edu/tutorial/)
+
