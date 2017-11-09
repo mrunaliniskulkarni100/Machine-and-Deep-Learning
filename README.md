@@ -12,7 +12,8 @@ If this outputs the Python Version, you have Python installed.
 
 ## Machine Learning Resources
 
-### [ Introduction to Machine Learning with Python: A Guide for Data Scientists ](https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=88e6e93f-6186-4b6a-acbb-07c8fef57a60)
+Machine Learning Book:
+[ Introduction to Machine Learning with Python: A Guide for Data Scientists ](https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=88e6e93f-6186-4b6a-acbb-07c8fef57a60)
 
 
 ## Deep Learning Resources 
