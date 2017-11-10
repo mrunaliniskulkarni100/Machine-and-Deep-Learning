@@ -10,6 +10,11 @@ Please make sure that you have Python 2.7/3.5 installed by running:
 
 If this outputs the Python Version, you have Python installed.
 
+
+## Libraries
+
+Checkout the Libraries Folder. I have used most of these Libraries.
+
 ## Machine Learning Resources
 
 Machine Learning Book:
@@ -18,11 +23,10 @@ Machine Learning Book:
 
 ## Deep Learning Resources 
 
-[ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-
-[ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
-
 [ The Deep Learning Book ](http://www.deeplearningbook.org/)
 
 [ Stanford's Deep Learning Course ](http://deeplearning.stanford.edu/tutorial/)
 
+[ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+[ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
