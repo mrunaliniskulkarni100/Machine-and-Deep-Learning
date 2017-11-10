@@ -82,6 +82,10 @@ TensorFlow™ is an open source software library for numerical computation using
 
 [ TensorFlow ](https://www.tensorflow.org/)
 
+## OpenCV
+
+
+
 ## Gym
 
 OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
@@ -90,11 +94,11 @@ OpenAI Gym is a toolkit for developing and comparing reinforcement learning algo
 
 You can install `gym` with:
 
-`git clone https://github.com/openai/gym.git`
+1. `git clone https://github.com/openai/gym.git`
 
-`cd gym`
+2. `cd gym`
 
-`pip install -e`
+3. `pip install -e`
 
 Or, you can directly install using PyPI:
 
@@ -108,11 +112,11 @@ OpenAI Universe is a software platform for measuring and training an AI's genera
 
 You can install `universe` with:
 
-`git clone https://github.com/openai/universe.git`
+1. `git clone https://github.com/openai/universe.git`
 
-`cd universe`
+2. `cd universe`
 
-`pip install -e`
+3. `pip install -e`
 
 `universe` needs `numpy` for execution, so if any error occurs while installation, go ahead and install `numpy`.
 
