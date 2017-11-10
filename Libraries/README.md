@@ -74,11 +74,39 @@ TensorFlow™ is an open source software library for numerical computation using
 
 [ TensorFlow ](https://www.tensorflow.org/)
 
-## Universe by OpenAi
+## Gym
 
-Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
+OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
+
+[Gym's GitHub Page](https://github.com/openai/gym)
+
+You can install `gym` with:
+
+`git clone https://github.com/openai/gym.git`
+
+`cd gym`
+
+`pip install -e`
+
+Or, you can directly install using PyPI:
+
+`pip install gym`
+
+## Universe
+
+OpenAI Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
 [ Universe ](https://github.com/openai/universe)
+
+You can install `universe` with:
+
+`git clone https://github.com/openai/universe.git`
+
+`cd universe`
+
+`pip install -e`
+
+`universe` needs `numpy` for execution, so if any error occurs while installation, go ahead and install `numpy`.
 
 ## NEAT 
 
@@ -86,7 +114,7 @@ NEAT (NeuroEvolution of Augmenting Topologies) is a method developed by Kenneth 
 
 Install `neat-python` Library using `pip`
 
-`sudo pip install neat-python`
+`pip install neat-python`
 
 Or, you can install it from source.
 
