@@ -1,8 +1,72 @@
 # Important Libraries
 
-## Numpy
+## Basic Libraries
 
+Here are some Libraries you'll have to install no matter what other Library you plan to work on. All major libraries such as TensorFlow, Keras, Gym are dependent on these Libraries.
 
+### Numpy
+
+[NumPy](http://www.numpy.org/) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+Install `numpy` and its other dependencies using:
+
+`python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`
+
+This command will also install libraries `scipy`, `matplotlib`, `ipython`, `jupyter`, `pandas`, `sympy` and `nose`.
+
+### Scipy
+
+[Scipy](https://www.scipy.org/) is an open source Python Library used for scientific and technical computing.
+
+Scipy contains modules for optimization, linear algebra, integration, interpolation, special functions, Fast Fourier Transform, signal and Image Processing.
+
+To install `scipy`, look at the Numpy Section.
+
+### Matplotlib 
+
+[Matplotlib](https://matplotlib.org/) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shell, the jupyter notebook, web application servers, and four graphical user interface toolkits.
+
+To install `matplotlib`, look at the Numpy Section.
+
+### iPython
+
+[IPython](https://ipython.org/) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history.
+
+To install `ipython`, look at the Numpy Section.
+
+### Jupyter Notebook
+
+[The Jupyter Notebook](http://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+To install `jupyter`, look at the Numpy Section.
+
+### Pandas
+
+In computer programming, [pandas](http://pandas.pydata.org/) is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
+To install `pandas`, look at the Numpy Section.
+
+### Sympy
+
+[SymPy](http://www.sympy.org/en/index.html) is a Python library for symbolic computation. It provides computer algebra capabilities either as a standalone application, as a library to other applications, or live on the web as SymPy Live or SymPy Gamma.
+
+To install `sympy`, look at the Numpy Section, or,
+
+`git clone git://github.com/sympy/sympy.git`
+
+and then,
+
+`python setup.py install`
+
+### Nose 
+
+[Nose](http://nose.readthedocs.io/en/latest/) has been in maintenance mode for the past several years and will likely cease without a new person/team to take over maintainership. New projects should consider using Nose2, py.test, or just plain unittest/unittest2.
+
+To install `nose`, look at the Numpy Section, or, 
+
+run the command,
+
+`pip install nose`
 
 ## TensorFlow by Google
 
@@ -31,4 +95,5 @@ Or, you can install it from source.
 2. `python setup.py install`
 
 [ NEAT Python Library ](https://github.com/CodeReclaimers/neat-python)
+
 [ neat-python Documentation ](http://neat-python.readthedocs.io/en/latest/)
