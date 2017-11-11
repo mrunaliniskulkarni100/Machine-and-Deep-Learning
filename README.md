@@ -13,7 +13,9 @@ If this outputs the Python Version, you have Python installed.
 
 ## Libraries
 
-Checkout the Libraries Folder. I have used most of these Libraries.
+Checkout the Libraries Folder. I have used most of these Libraries. Please install all the basic libraries.
+
+[Libraries Page](https://github.com/ishanjoshi02/Machine-and-Deep-Learning/tree/master/Libraries)
 
 ## Machine Learning Resources
 
