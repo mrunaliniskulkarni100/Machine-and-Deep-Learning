@@ -97,7 +97,7 @@ Without GPU-Support:
 1. Python 2.7: `pip install tensorflow`
 2. Python 3.n: `pip3 install tensorflow`
 
-With GPU-Support (needs Nvidia CPU):
+With GPU-Support (needs Nvidia GPU):
 
 1. Python 2.7: `pip install tensorflow-gpu`
 2. Python 3.n: `pip3 install tensorflow-gpu`
