@@ -68,13 +68,21 @@ run the command,
 
 `pip install nose`
 
-## Scikit-Learn
+### Scikit-Learn
 
 [Scikit-learn](http://scikit-learn.org/stable/) (formerly scikits.learn) is a free software machine learning library for the Python programming language.[3] It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
 To install Sci-kit Learn, run command,
 
 `pip install --user --install-option="--prefix=" -U scikit-learn`
+
+### Pydotplus
+
+PyDotPlus is an improved version of the old pydot project that provides a Python Interface to Graphviz’s Dot language.
+
+`pip install pydotplus`
+
+Development Page: [GitHub](https://github.com/carlos-jenkins/pydotplus)
 
 ## TensorFlow by Google
 
