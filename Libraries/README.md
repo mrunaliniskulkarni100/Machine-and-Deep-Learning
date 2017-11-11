@@ -102,20 +102,14 @@ Development Page: [GitHub](https://github.com/carlos-jenkins/pydotplus)
 
 A Library used for plotting and data loading. This library was developed for the [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=88e6e93f-6186-4b6a-acbb-07c8fef57a60) Book
 
-
 To install mglearn, run command,
 
 `pip install mglearn`
 
-If installation fails, try running the command as a superuser,
-
-`sudo pip install mglearn`
 
 ## TensorFlow
 
-TensorFlow™ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
-
-[ TensorFlow ](https://www.tensorflow.org/)
+TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
 
 Installation Instructions:
 
@@ -130,6 +124,8 @@ With GPU-Support (needs Nvidia GPU):
 2. Python 3.n: `pip3 install tensorflow-gpu`
 
 [More Information](https://www.tensorflow.org/install/)
+
+[TensorFlow Home Page](https://www.tensorflow.org/)
 
 ## Keras
 

@@ -23,10 +23,13 @@ First check if you already have installed `pip` using command
 
 `pip -V`
 
-If you have downloaded Python from (https://www.python.org/), you already have `pip` and `setuptools` installed.
+If you have downloaded Python from https://www.python.org/, you already have `pip` and `setuptools` installed.
 
 Else, head over to the [Pip Installation](https://packaging.python.org/guides/installing-using-linux-tools/), to see how to install pip.
 
+### pip Install Error(Linux)
+
+Sometimes, pip doesn't install a package due to permission error. To resolve this error, use `sudo` before the pip install.
 
 ## Libraries
 
