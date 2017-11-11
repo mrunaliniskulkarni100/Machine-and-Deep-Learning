@@ -97,7 +97,7 @@ If installation fails, try running the command as a superuser,
 
 `sudo pip install mglearn`
 
-## TensorFlow by Google
+## TensorFlow
 
 TensorFlow™ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
 
@@ -116,6 +116,22 @@ With GPU-Support (needs Nvidia GPU):
 2. Python 3.n: `pip3 install tensorflow-gpu`
 
 [More Information](https://www.tensorflow.org/install/)
+
+## Keras
+
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. 
+
+Use Keras if you need a deep learning library that:
+
+1. Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility)
+2. Supports both convolutional networks and recurrent networks, as well as combinations of the two
+3. Runs seamlessly on CPU and GPU.
+
+To install keras, run command,
+
+`pip install keras`
+
+[Home Page](https://keras.io/)
 
 ## OpenCV
 

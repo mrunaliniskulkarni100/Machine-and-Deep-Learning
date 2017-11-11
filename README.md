@@ -31,3 +31,8 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 [ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 [ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
+
+
+## Important GitHub Repositories
+
+1. [Neural Networks by Savarin](https://github.com/savarin/neural-networks)
