@@ -141,13 +141,13 @@ To install keras, run command,
 
 `pip install keras`
 
-[Home Page](https://keras.io/)
+[Keras Home Page](https://keras.io/)
 
 ## OpenCV
 
 OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage and is now maintained by Itseez.
 
-[OpenCV](https://opencv.org)
+[OpenCV Home Page](https://opencv.org)
 
 [Install Instructions for Linux](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html)
 
@@ -174,7 +174,7 @@ Or, you can directly install using `pip`:
 
 OpenAI Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
-[ Universe ](https://github.com/openai/universe)
+[Universe's GitHub Page](https://github.com/openai/universe)
 
 You can install `universe` with:
 
@@ -202,6 +202,6 @@ Or, you can install it from source.
 
 2. `python setup.py install`
 
-[NEAT Python Library](https://github.com/CodeReclaimers/neat-python)
+[NEAT Python's GitHub Page](https://github.com/CodeReclaimers/neat-python)
 
 [neat-python Documentation](http://neat-python.readthedocs.io/en/latest/)
