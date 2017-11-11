@@ -10,6 +10,23 @@ Please make sure that you have Python 2.7/3.5 installed by running:
 
 If this outputs the Python Version, you have Python installed.
 
+Else, head over to [Python Home Page](https://www.python.org/), to download the latest version of Python.
+
+
+## pip
+
+pip is a package management system used to install and manage software packages written in Python. Many packages can be found in the Python Package Index. Python 2.7.9 and later, and Python 3.4 and later include pip by default. 
+
+### How to install pip
+
+First check if you already have installed `pip` using command
+
+`pip -V`
+
+If you have downloaded Python from (https://www.python.org/), you already have `pip` and `setuptools` installed.
+
+Else, head over to the [Pip Installation](https://packaging.python.org/guides/installing-using-linux-tools/), to see how to install pip.
+
 
 ## Libraries
 
@@ -24,15 +41,23 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 
 ## Deep Learning Resources 
 
-[ The Deep Learning Book ](http://www.deeplearningbook.org/)
+1. [The Deep Learning Book](http://www.deeplearningbook.org/)
 
-[ Stanford's Deep Learning Course ](http://deeplearning.stanford.edu/tutorial/)
+2. [Stanford's Deep Learning Course](http://deeplearning.stanford.edu/tutorial/)
 
-[ Siraj Raval's YouTube Channel ](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+3. [Siraj Raval's YouTube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
-[ Siraj Raval's GitHub Page ](https://github.com/llSourcell)
+4. [Siraj Raval's GitHub Page](https://github.com/llSourcell)
+
+5. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
 
 
 ## Important GitHub Repositories
 
 1. [Neural Networks by Savarin](https://github.com/savarin/neural-networks)
+
+
+## Datasets used
+
+1. Datasets included in `sklearn` Library
+2. [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
