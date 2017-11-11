@@ -90,6 +90,20 @@ TensorFlow™ is an open source software library for numerical computation using
 
 [ TensorFlow ](https://www.tensorflow.org/)
 
+Installation Instructions:
+
+Without GPU-Support:
+
+1. Python 2.7: `pip install tensorflow`
+2. Python 3.n: `pip3 install tensorflow`
+
+With GPU-Support (needs Nvidia CPU):
+
+1. Python 2.7: `pip install tensorflow-gpu`
+2. Python 3.n: `pip3 install tensorflow-gpu`
+
+[More Information](https://www.tensorflow.org/install/)
+
 ## OpenCV
 
 OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage and is now maintained by Itseez.
