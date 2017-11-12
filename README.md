@@ -54,10 +54,15 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 
 5. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
 
+6. [3Blue1Brown's YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+7. [DeepLearning.TV YouTube Channel](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
 
 ## Important GitHub Repositories
 
 1. [Neural Networks by Savarin](https://github.com/savarin/neural-networks)
+2. [Tensorflow Examples](https://github.com/tensorflow/tensorflow/tree/r1.4/tensorflow/examples)
 
 
 ## Datasets used
