@@ -39,8 +39,9 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 
 ## Machine Learning Resources
 
-[ Introduction to Machine Learning with Python: A Guide for Data Scientists ](https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=88e6e93f-6186-4b6a-acbb-07c8fef57a60)
+1. [ Introduction to Machine Learning with Python: A Guide for Data Scientists ](https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=88e6e93f-6186-4b6a-acbb-07c8fef57a60)
 
+2. [Andrew Ng Machine Learning Class](https://www.coursera.org/learn/machine-learning)
 
 ## Deep Learning Resources 
 
@@ -57,6 +58,10 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 6. [3Blue1Brown's YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 7. [DeepLearning.TV YouTube Channel](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
+8. [Andrew Ng Deep Learning Class](https://www.coursera.org/specializations/deep-learning)
+
+9. [Michael Nielsen's Book](http://neuralnetworksanddeeplearning.com/)
 
 
 ## Important GitHub Repositories
