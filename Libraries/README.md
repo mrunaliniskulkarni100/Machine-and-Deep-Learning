@@ -10,7 +10,13 @@ Here are some Libraries you'll have to install no matter what other Library you 
 
 Install `numpy` and its other dependencies using:
 
+#### For Python 2.n:
+
 `python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`
+
+#### For Python 3.n:
+
+`python3 -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`
 
 This command will also install libraries `scipy`, `matplotlib`, `ipython`, `jupyter`, `pandas`, `sympy` and `nose`.
 
@@ -22,7 +28,13 @@ Scipy contains modules for optimization, linear algebra, integration, interpolat
 
 To install `scipy`, look at the Numpy Section, or,
 
+#### For Python 2.n:
+
 `pip install scipy`
+
+#### For Python 3.n:
+
+`pip3 install scipy`
 
 ### Matplotlib 
 
@@ -30,7 +42,13 @@ To install `scipy`, look at the Numpy Section, or,
 
 To install `matplotlib`, look at the Numpy Section, or,
 
+#### For Python 2.n:
+
 `pip install matplotlib`
+
+#### For Python 3.n:
+
+`pip3 install matplotlib`
 
 ### iPython
 
@@ -38,7 +56,13 @@ To install `matplotlib`, look at the Numpy Section, or,
 
 To install `ipython`, look at the Numpy Section, or,
 
+#### For Python 2.n:
+
 `pip install ipython`
+
+#### For Python 3.n:
+
+`pip3 install ipython`
 
 ### Jupyter Notebook
 
@@ -46,15 +70,27 @@ To install `ipython`, look at the Numpy Section, or,
 
 To install `jupyter`, look at the Numpy Section, or,
 
+#### For Python 2.n:
+
 `pip install jupyter`
+
+#### For Python 3.n:
+
+`pip3 install jupyter`
 
 ### Pandas
 
 In computer programming, [pandas](http://pandas.pydata.org/) is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 
-To install `pandas`, look at the Numpy Section,
+To install `pandas`, look at the Numpy Section, or,
+
+#### For Python 2.n:
 
 `pip install pandas`
+
+#### For Python 3.n:
+
+`pip3 install pandas`
 
 ### Sympy
 
@@ -62,7 +98,13 @@ To install `pandas`, look at the Numpy Section,
 
 To install `sympy`, look at the Numpy Section, or,
 
+#### For Python 2.n:
+
 `pip install sympy`
+
+#### For Python 3.n:
+
+`pip3 install sympy`
 
 Or,
 
@@ -80,7 +122,13 @@ To install `nose`, look at the Numpy Section, or,
 
 run the command,
 
+#### For Python 2.n:
+
 `pip install nose`
+
+#### For Python 3.n:
+
+`pip3 install nose`
 
 ### Scikit-Learn
 
@@ -88,13 +136,25 @@ run the command,
 
 To install Sci-kit Learn, run command,
 
+#### For Python 2.n:
+
 `pip install --user --install-option="--prefix=" -U scikit-learn`
+
+#### For Python 3.n:
+
+`pip3 install --user --install-option="--prefix=" -U scikit-learn`
 
 ### Pydotplus
 
 PyDotPlus is an improved version of the old pydot project that provides a Python Interface to Graphviz’s Dot language.
 
+#### For Python 2.n:
+
 `pip install pydotplus`
+
+#### For Python 3.n:
+
+`pip3 install pydotplus`
 
 Development Page: [GitHub](https://github.com/carlos-jenkins/pydotplus)
 
@@ -104,8 +164,13 @@ A Library used for plotting and data loading. This library was developed for the
 
 To install mglearn, run command,
 
+#### For Python 2.n:
+
 `pip install mglearn`
 
+#### For Python 3.n:
+
+`pip3 install mglearn`
 
 ## TensorFlow
 
@@ -139,7 +204,13 @@ Use Keras if you need a deep learning library that:
 
 To install keras, run command,
 
+#### For Python 2.n:
+
 `pip install keras`
+
+#### For Python 3.n:
+
+`pip3 install keras`
 
 [Keras Home Page](https://keras.io/)
 
@@ -182,7 +253,7 @@ You can install `universe` with:
 
 2. `cd universe`
 
-3. `pip install -e`
+3. Python 2.n: `pip install -e` or for Python 3.n: `pip3 install -e` 
 
 `universe` needs `numpy` for execution, so if any error occurs while installation, go ahead and install `numpy`, using,
 
@@ -194,13 +265,19 @@ NEAT (NeuroEvolution of Augmenting Topologies) is a method developed by Kenneth 
 
 Install `neat-python` Library using `pip`
 
+#### For Python 2.n:
+
 `pip install neat-python`
+
+#### For Python 3.n:
+
+`pip3 install neat-python`
 
 Or, you can install it from source.
 
 1. `git clone https://github.com/CodeReclaimers/neat-python.git`
 
-2. `python setup.py install`
+2. For Python 2.n: `python setup.py install` or for Python 3.n: `python3 setup.py install`
 
 [NEAT Python's GitHub Page](https://github.com/CodeReclaimers/neat-python)
 
