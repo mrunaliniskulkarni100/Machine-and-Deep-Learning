@@ -8,7 +8,9 @@ Please make sure that you have Python 2.7/3.5 installed by running:
 
 `python -V`
 
-If this outputs the Python Version, you have Python installed.
+It is recommended to use Python 3.n
+
+**If this outputs the Python Version, you have Python installed.**
 
 Else, head over to [Python Home Page](https://www.python.org/), to download the latest version of Python.
 
