@@ -4,7 +4,7 @@ k-NN is a type of instance-based learning, or lazy learning, where the function 
 
 ## FromScratch
 
-From Scratch contains code for a k-NN Classifier Written from Scratch. 
+From Scratch contains code for a k-NN Classifier written by me from scratch.
 
 ## Example_1.py
 

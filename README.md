@@ -66,13 +66,21 @@ Checkout the Libraries Folder. I have used most of these Libraries. Please insta
 - [Michael Nielsen's Book](http://neuralnetworksanddeeplearning.com/)
 
 
-## Important GitHub Repositories
+## GitHub Repositories
+
+### Repositories by others
 
 - [Neural Networks by Savarin](https://github.com/savarin/neural-networks)
 - [Tensorflow Examples](https://github.com/tensorflow/tensorflow/tree/r1.4/tensorflow/examples)
 
+### My Repositories
+
+- [Project Loan](https://github.com/ishanjoshi02/LoanProject)
+
+
 
 ## Datasets used
 
--  Datasets included in `sklearn` Library
--  [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- Datasets included in `sklearn` Library
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- Some Programs need generate their own dataset using a Python Script. 
