@@ -8,6 +8,6 @@ An animation demonstrating functioning of Convolutional Neural Network
 
 I have used the Fashion-MNIST dataset to train the Neural Network.
 
-1. Go to their GitHub Page to download the Dataset.
+1. Go to their [GitHub Page](https://github.com/zalandoresearch/fashion-mnist) to download the Dataset.
 2. After downloading the dataset, save it in `Convolutional Neural Network/data`
 3. The program will manage, extracting the data from the dataset files.
