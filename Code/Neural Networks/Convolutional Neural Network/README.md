@@ -2,7 +2,7 @@
 
 An animation demonstrating functioning of Convolutional Neural Network
 
-[https://cdn-images-1.medium.com/max/1600/0*1PSMTM8Brk0hsJuF.]
+[https://cdn-images-1.medium.com/max/1600/0*1PSMTM8Brk0hsJuF.gif]
 
 # Dataset used
 
